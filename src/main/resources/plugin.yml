@@ -1,0 +1,4 @@
+name: ETapiTitles
+main: me.etblaky.titles.TitleApi
+version: 1.0-SNAPSHOT
+author: ETblaky
